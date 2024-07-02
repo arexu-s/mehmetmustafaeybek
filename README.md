@@ -45,13 +45,13 @@ Github Stats
 
 
 ### Back-End Development Toolls
-[![My Skills](https://skillicons.dev/icons?i=php,js,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,flutter)](https://skillicons.dev)
 
 ### Development Environment Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github)](https://skillicons.dev)
 
 ### Design Tools
-[![My Skills](https://skillicons.dev/icons?i=ae,photoshop,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,photoshop,figma,xd)](https://skillicons.dev)
 
 ## Commits
 
