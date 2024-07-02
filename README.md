@@ -1,68 +1,58 @@
- <p Hizalamak="Merkez"> 
-Profil gezünümleri<br>
-  
+<p align="center"> 
+Profile views<br>
+
  <img src="https://profile-counter.glitch.me/mehmetmustafaeybek/count.svg" />
 </p>
 
 
-# <img genişlik = "% 50" src = https://readme-typing-svg.demolab.com?font=Fira+Code&duraklama 1000 ve = 4a76fc & arka planı = FF6AAA00 & vCenter = yanş & mult
-
-<img genişlik = "% 30" gizalama = "dogru" src = "https://lanyard.kyrie25.me/api/824878181717770250?decoration=true&useDisplayName true & aimationDuration = 2s & waveColor = 7ea1f3 > imgSty
-<div Hizalamak="sol" gişlik="100%">
-
+<img width="50%" src= "https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=4a76fc&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Hi+there%2C+I'am+Mehmet+Mustafa+Eybek">
+<img width="30%" align="right" src="https://lanyard.kyrie25.me/api/824878181717770250?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=000000&idleMessage=Nothingness">
+<div align="left" width="100%">
 
 
 
-### Merhaba, ben Mehmet Mustafa Eybek, <img src = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" genişlik =" 25 piksel "> Türkiye'de yeşamışorum, 19 yaşım gün ve hevesli bir yazlık geliş. Web geliştirme ve anlaşmazlık botlarının geliştirilmesin odaklanan çeşitli projeleri tamamladım. Bu projelerde Php, Html, Css, JavaScript gibi programlama dillerini ve Tailwind ve React gibi çerçeveleri kullandım. Github'daki çalıkmalar paylaşarak, deneyimli geliştiricilerden geri bildirim almak ve daha ve genclere ilham vermek istiyorum. yazım geliştirme ile ilgileniyorlar. Geri bildiriminizi, önerilerinizi ve eleştirilerinizi memnuniyetle karşışıryoruz.
 
-## Github İstatistikleri 
+Hi, I'am Mehmet Mustafa Eybek, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> I live in Turkey, I am 18 years old and as an aspiring software developer, I want to share and develop my passion for software development and my experience in this field. I have completed various projects focusing on web development and discord bots development. In these projects, I have used programming languages such as Php, Html, Css, JavaScript and frameworks such as Tailwind and React. By sharing my work on github, I want to get feedback from experienced developers and inspire other young people who are interested in software development. I welcome your feedback, suggestions and criticism.
+Github Stats
+<h3 align="left">📊 GitHub Stats:</h3>
 
-<h3 Hizalamak="sol">📊 GitHub İstatistikleri:</h3>
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=mehmetmustafaeybek&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
 
-<img hizalamak = "sol" genişlik = "% 45" src = "https://github-readme-stats.vercel.app/api?username=mehmetmustafaeybek&show_icons doğru & tema = tepki & hide_border = doğru & bg_color =
-
-<br açık = "sol" / > 
-
-
-
-# Tam Yıl Geliştirici
+<br clear="left"/> 
 
 
 
-### Sosyal Medya
-
-<a href="https://www.instagram.com/aydocs.js/"><img hizalamak = "sol" src = "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" yükseklik =" 50 "genişlik =" 50 "></a>
-<a href="https://twitter.com/aydocs.js"><img hizalamak = "sol" src = "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" yükseklik =" 50 "genişlik =" 50 "></a>
-<a href="https://discord.com/users/886235491010248766"><img hizalamak = "sol" src = "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" yükseklik =" 50 "genişlik =" 50 "></a>
+Full-Stack Developer
+Social Medias
+<a href="https://www.instagram.com/aydocs.js/"><img align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" height="50" width="50"></a>
+<a href="https://twitter.com/aydocs.js"><img align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" height="50" width="50"></a>
+<a href="https://discord.com/users/886235491010248766"><img align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" height="50" width="50"></a>
 <br />
 <br />
 
-### Ön Uc Geliştirme Ücretleri
-
-<img genişlik = "50" yükseklik = "50" gizalamak = "sol" src = "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-<img genişlik = "50" yükseklik = "50" gizalamak = "sol" src = "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-<img genişlik = "50" yükseklik = "50" gizalamak = "sol" src = "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-<img genişlik = "50" yükseklik = "50" gizalamak = "sol" src = "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg">
-<img genişlik = "50" yükseklik = "50" gizalamak = "sol" src = "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
+Front-End Development Toolls
+<img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+<img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+<img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+<img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg">
+<img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
 <br />
 <br />
 
 
-### Arka Uç Geliştirme Ücretleri
-[![Becerilerim](https://skillicons.dev/icons?i=php,js,py)](https://skillicons.dev)
+Back-End Development Toolls
+[![My Skills](https://skillicons.dev/icons?i=php,js,py)](https://skillicons.dev)
 
-### Geliştirme Çevre Araçları
-[![Becerilerim](https://skillicons.dev/icons?i=vscode,visualstudio,github,git)](https://skillicons.dev)
+Development Environment Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,github,git)](https://skillicons.dev)
 
-### Tasarım Araçları
-[![Becerilerim](https://skillicons.dev/icons?i=ae,photoshop,figma)](https://skillicons.dev)
+Design Tools
+[![My Skills](https://skillicons.dev/icons?i=ae,photoshop,figma)](https://skillicons.dev)
 
-## taahhüt
+Commits
+!github contribution grid snake animation!github contribution grid snake animation
 
-![github katkı azgara yýlan animayon](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github katkı azgara yýlan animayon](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-### En Çok Kullanıl Diller
-
+Most Used Languages
 <detalis>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetmustafaeybek&= kompakt" gişlik=% % % % % % 40%>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetmustafaeybek&layout=compact" width=40%>
 </detalis>
