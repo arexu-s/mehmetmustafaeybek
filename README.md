@@ -28,9 +28,8 @@ Github Stats
 
 ### Social Medias
 
-<a href="https://www.instagram.com/aydocs.js/"><img align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" height="50" width="50"></a>
-<a href="https://twitter.com/aydocs.js"><img align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" height="50" width="50"></a>
-<a href="https://discord.com/users/886235491010248766"><img align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" height="50" width="50"></a>
+<a href="https://www.instagram.com/mustafaeybk/"><img align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" height="50" width="50"></a>
+<a href="https://discord.com/users/824878181717770250"><img align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" height="50" width="50"></a>
 <br />
 <br />
 
