@@ -22,15 +22,20 @@ Github Stats
 
 
 
-Full-Stack Developer
-Social Medias
+# Full-Stack Developer
+
+
+
+### Social Medias
+
 <a href="https://www.instagram.com/aydocs.js/"><img align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" height="50" width="50"></a>
 <a href="https://twitter.com/aydocs.js"><img align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" height="50" width="50"></a>
 <a href="https://discord.com/users/886235491010248766"><img align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" height="50" width="50"></a>
 <br />
 <br />
 
-Front-End Development Toolls
+### Front-End Development Toolls
+
 <img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
 <img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
 <img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
@@ -40,19 +45,21 @@ Front-End Development Toolls
 <br />
 
 
-Back-End Development Toolls
+### Back-End Development Toolls
 [![My Skills](https://skillicons.dev/icons?i=php,js,py)](https://skillicons.dev)
 
-Development Environment Tools
+### Development Environment Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,github,git)](https://skillicons.dev)
 
-Design Tools
+### Design Tools
 [![My Skills](https://skillicons.dev/icons?i=ae,photoshop,figma)](https://skillicons.dev)
 
-Commits
-!github contribution grid snake animation!github contribution grid snake animation
+## Commits
 
-Most Used Languages
+![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+### Most Used Languages
+
 <detalis>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetmustafaeybek&layout=compact" width=40%>
 </detalis>
